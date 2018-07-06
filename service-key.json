@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dnd-wiki-ca7bd",
+  "private_key_id": "1029b2c50e676d406d059e9e44b27dbe7fefe0f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDT8nrUzoEZgj4r\nDpSFltQQZqRYbP9oqExbvKBqRxmOs+UYaWZaf806xKzHWknetJnQVGsGs/LqcT9s\nuofrKd01vVwBtLx9F/QNBqs6zQM7OCvCU/7vnwxiKQP9z1vBmtpFe5Ej7oAGWlDQ\nb5mF07qyUx55s+fNraGyI8cTCPdbGrh+6VrJmDf1uNEbOYU7uTf2hayblj0wZFd9\nEz/YB2GmCKyEe29j7IiafiPIvkecHllrlhTed4O4HxPWPui+GzadZE/lT8oo8OAP\n0YFUcZCQzjZKEhUkrSnwPGyJcL8J3tYKXLUaK/l1g5kQwxHEJOcYeeWh4XbGzzjo\nsGkzNhbNAgMBAAECggEACJqBj/KTXQS4yf39MMW5oAd6nmL2TzpIYeTwohUhcsss\nqTwGEqBjeqznJ+8rVntVpGujgzx6HOLcpJOXLDL2hCrxTtnBA6xIP4seF59LhUji\nGzEBBUXF4T+G+55CPEQGnjwbh9jeS45jqhe4T1gT7mSKCn4EvTL81a1hdGKwdSXi\nnig3mNbsxtsTqyRmVPJHZxkTR+7ntcq0DBggtL7T8ZeeVimMUnKdxNU3irfg32w+\n4s+hrViRJVP40JOOQlpbgoH/Qhg5k3gBR7+VdQCXGFUeYCwqWUaAJiU7w1bVUKwi\nZ/H948xp0vBxd4DknCzOL8pXDA2msx5rKoehekIRAQKBgQDsrJyCisjvXptHwIAV\nW237HlT3nhtg5ORok3GxfurC+3B8W1bWprzX9SAoJ1yKS+F5GIPw9yPgFZVw+s/h\nH+NcAEpMZaVl4kwOa1qArw3BFpdkblvrRVAdB3b9unMZERr+hoFYAojEhQXhVTp2\noijjc4Fc86jjjcnjz2BlXB/SjQKBgQDlQPqXzIEN+eRbwMjBgkB9miQYvwqxPusN\nFW4oOtAFC5Ih8KLFEZWr4zYbtnrEJhQLr5//kD+bwRhMGjw8phTndQWSUznFl60u\n0L45VRlBjDhraTYxj3npBJvOiG4Tl29IEA5AmMd1BpkSWlcZ/MzcCYLUeIW9+Ghz\n1TPJiVBlQQKBgQDlx8A8TZpALE3+H7s7AQWKZSyBLBPQwumvTld3yI0MuSnA0r1A\nsalu0iJiWbTS4FEMTOzsqkU+bjYk9p2VKGyJCg8YlSc7/7Vv2nKHtW1ZJiHd8/dy\nOF1Lkc/JD5hnod/fdZ9mXy+B/NR0rVaRj2a7TY0vPbGfHC4C63ffcM3EkQKBgAde\n1m+o8IE9hnz4rruh72baXMy636IhLrdl9/utIGD5JUKYFPOXBCPZkzTC4iGKQ9y4\nUcGKprDgPWK8+TDN+iAS4BH7QQE8RiIaLfNz6/LyiiHR6R8gyL+YGVZDhp50oOxF\nL+AdyVPW2XcAlopMWV29pIomMc6QvPL0aMzS8FXBAoGAbZr2F5W7/yae/U7BjVK3\nTZXfL454pDOxn8f8OP+hh2NNPeao7H/Q1MWk0ipzf6NQe4rg9oJj18Ng0tGywDEk\n8R/sSXMrOObs0lB0SwdDXGdCq69BGOAai9yUgQCxU8jPoe+h/LgcSUfPfv9Xg0zz\nwrAziedMmTIVZ0HKz/8xnpg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "alexa-755@dnd-wiki-ca7bd.iam.gserviceaccount.com",
+  "client_id": "102450738473891520040",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/alexa-755%40dnd-wiki-ca7bd.iam.gserviceaccount.com"
+}
